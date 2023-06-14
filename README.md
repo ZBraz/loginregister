@@ -23,9 +23,9 @@ Creating database
 #when creating the database- python app.py in terminal add
 
 from app import app
-db = app.extensions['sqlalchemy']
-with app.app_context():
-(tab)    db.create_all() (with tab)
+-db = app.extensions['sqlalchemy']
+-with app.app_context():
+-(tab)    db.create_all() 
 
 
 Usage 
