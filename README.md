@@ -17,7 +17,7 @@ Pip install flask
 
 
 Import flask, render template, url for, redirect
-Python app.py
+Python app.py (in terminal)
 
 Creating database
 #when creating the database- python app.py in terminal add
