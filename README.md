@@ -1,5 +1,5 @@
 
-# purpose
+# Purpose
 
 Login system that allows users to register to create user name and password that are saved to a data base allowing accounts to be made for website login
 
