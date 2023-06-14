@@ -5,12 +5,12 @@ Login system that allows users to register to create user name and password that
 
 
 
-# loginregister
 
-Installation
+
+# Installation
 
 Create a virtual environment 
-# to start in terminal
+to start in terminal
 Pip install flask 
 (pip install- windows , pip3 install-mac)
 #Install flask to your chosen platform for python 
