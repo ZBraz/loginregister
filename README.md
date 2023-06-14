@@ -1,3 +1,10 @@
+
+# purpose
+
+Login system that allows users to register to create user name and password that are saved to a data base allowing accounts to be made for website login
+
+
+
 # loginregister
 
 Installation
@@ -8,12 +15,6 @@ Pip install flask
 (pip install- windows , pip3 install-mac)
 #Install flask to your chosen platform for python 
 
-pip install Flask-Login
-pip install SQLAlchemy
-pip install Flask-WTF
-pip install WTForms
-pip install wtforms-validators
-pip install Flask-Bcrypt
 
 Import flask, render template, url for, redirect
 Python app.py
