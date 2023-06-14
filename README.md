@@ -25,7 +25,7 @@ Creating database
 from app import app
 db = app.extensions['sqlalchemy']
 with app.app_context():
-    db.create_all() (with tab)
+(tab)    db.create_all() (with tab)
 
 
 Usage 
